@@ -106,7 +106,7 @@ You can set up a rule to get a copy of email messages reported by users in your 
     
 4. In the **Apply this rule if** list, choose **The recipient address includes...**. 
     
-5. In the **specify words or phrases** screen, add `junk@office365.microsoft.com` and `phish@office365.microsoft.com`, and then choose **OK**.<br/>![Specify the junk and phish email addresses for the rule](media/018c1833-f336-4333-a45c-f2e8b75cd698.png)<br/>
+5. In the **specify words or phrases** screen, add `junk@office365.microsoft.com`, `not_junk@office365.microsoft.com` and `phish@office365.microsoft.com` then choose **OK**.<br/>![Specify the junk and phish email addresses for the rule](media/018c1833-f336-4333-a45c-f2e8b75cd698.png)<br/>
   
 6. In the **Do the following...** list, choose **Bcc the message to...**. 
     
